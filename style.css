@@ -386,7 +386,7 @@ footer {
     align-items: center;
     width: 100%;
     height: 100%;
-    background-color: #00C17B;
+    background-color: #272727;
     padding: 20px 50px;
     flex-direction: column;
 
@@ -409,7 +409,7 @@ footer .social-icons li {
 
 footer .social-icons li a {
     font-size: 2em;
-    color: #141414;
+    color: #ffffff;
     margin: 10px;
     display: inline-block;
     text-decoration: none;
@@ -421,22 +421,28 @@ footer .social-icons li a:hover{
 }
 
 footer h2{
-    color: #212121;
+    color: #ffffff;
     font-weight:300;
     font-style: italic;
     letter-spacing: 1.5px;
     line-height: 1.8em;
   text-align: center;
     margin: auto;
+
 }
 
 footer h4 {
-    color: #01311f;
+    color: #e7e7e7;
     text-align: center;
     margin-top: 15px;
     margin-bottom: 10px;
     font-size: 1.1em;
     opacity: .5;
     font-weight: 200;
+    background-color:black ;
+    width: 100%;
+    padding: 0;
+    letter-spacing: 7px;
+ 
 }
 
